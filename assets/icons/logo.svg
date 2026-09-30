@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="logoTitle">
+  <title id="logoTitle">BENI MELLAL LAWAT</title>
+  <rect width="64" height="64" rx="14" fill="#0B1F1A"/>
+  <path d="M12 40h40M16 40c2-10 8-16 16-16s14 6 16 16" fill="none" stroke="#C4A35A" stroke-width="2.4" stroke-linecap="round"/>
+  <circle cx="22" cy="42" r="4.2" fill="none" stroke="#F7F4EE" stroke-width="2"/>
+  <circle cx="42" cy="42" r="4.2" fill="none" stroke="#F7F4EE" stroke-width="2"/>
+  <path d="M20 28h10l3 6" fill="none" stroke="#C4A35A" stroke-width="2" stroke-linecap="round"/>
+</svg>
